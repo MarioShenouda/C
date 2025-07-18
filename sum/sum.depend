@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635179179 source:c:\users\mario\onedrive\desktop\c project\sum\main.c
+	<stdio.h>
+	<stdlib.h>
+

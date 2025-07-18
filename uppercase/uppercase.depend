@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650397706 source:c:\users\mario\onedrive\desktop\c project\uppercase\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+

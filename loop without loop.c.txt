@@ -1,0 +1,26 @@
+#include "stdio.h"
+#include "stdlib.h"
+
+int count = 1;
+int limit = 100;
+
+void handler() {
+   
+    
+    if(count%3==0){
+    printf("CODING\n");
+      atexit(handler);
+      count++;
+    }
+
+   else if (count < limit) 
+    {
+      printf("%d\n", count++);
+      atexit(handler);
+    }
+}
+
+int main(int argc, char **argv) {
+    if (argc > 1) limit = atoi(argv[1]);
+    atexit(handler);
+}

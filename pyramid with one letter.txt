@@ -1,0 +1,27 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdbool.h>
+
+/**
+ * Auto-generated code below aims at helping you parse
+ * the standard input according to the problem statement.
+ **/
+
+int main()
+{
+    int x,i;
+    int n;
+    scanf("%d", &n);
+    char water[2];
+    scanf("%s", water);
+
+  for(x=0;x<n;x++)
+  {
+   for(i=0;i<x;i++)
+   printf(" ");
+   printf("%s\n",water);
+  }
+
+    return 0;
+}

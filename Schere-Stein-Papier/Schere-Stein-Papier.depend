@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635771729 source:c:\users\mario\onedrive\desktop\c project\schere-stein-papier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

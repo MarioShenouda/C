@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636404570 source:c:\users\mario\onedrive\desktop\c project\a1_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

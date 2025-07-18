@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1643897332 source:c:\users\mario\onedrive\desktop\c project\stopwatch\main.c
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<time.h>
+	<windows.h>
+

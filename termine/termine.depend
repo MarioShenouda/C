@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636030450 source:c:\users\mario\onedrive\desktop\c project\termine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

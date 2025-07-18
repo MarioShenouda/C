@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1642679229 source:c:\users\mario\onedrive\desktop\c project\a3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"framework.h"
+
+1642679159 c:\users\mario\onedrive\desktop\c project\a3\framework.h
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

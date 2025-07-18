@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637017072 source:c:\users\mario\onedrive\desktop\c project\string_name_count\main.c
+	<stdio.h>
+	<stdlib.h>
+
